@@ -11,4 +11,4 @@ pip install pywhatkit
 
 Do not forgot to login whatsapp Web otherwise the code will Fail 
 
-login Whatapp from here-- https://web.whatsapp.com/login
+login Whatapp web from here-- https://web.whatsapp.com/login
