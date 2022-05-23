@@ -1,4 +1,4 @@
-# Auto-Whatsapp-messageiing-by-python
+# Auto-Whatsapp-messageing-by-python
 This can be use when you want to send any message to someone at a specific time. This code will open whats app  and send message in the given time 
 
 The module which is needed to use is commans is  pywhatkit
